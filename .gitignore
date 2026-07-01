@@ -1,0 +1,12 @@
+models/
+*.pkl
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+.ipynb_checkpoints/
+
+
+.streamlit/secrets.toml
